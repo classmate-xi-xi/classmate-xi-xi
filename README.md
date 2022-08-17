@@ -4,6 +4,10 @@
 </em></p>
 
 ### :zap: Languages I use Java
+### :computer: Programming languages and tools: 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 ### :rocket: Some of the technologies I have worked with
 
